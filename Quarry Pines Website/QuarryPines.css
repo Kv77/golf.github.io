@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700');
+
+
+.jumbotron  {
+	background: url("golfImg8.jpg") no-repeat;
+	
+	text-align: center;
+	background-size: cover;
+	color: white;
+	padding-top: 20%;
+    padding-bottom: 20%;
+    height: 30%;
+    width: 100%;
+	transition-property: background, border-radius;
+	transition-duration: 8s;
+	background-color: black;
+
+}
+
+.jumbotron:hover {
+	
+}
+
+
+
+/* Nav bar*/
+
+.navbar {
+	font-size: 
+}
+
+
+.navbar .navbar-brand {
+	width: 50%;
+}
+
+
+
+/* Member Login*/
+
+.login-light {
+  height:100%;
+  background-size:cover;
+  position:relative;
+  margin: auto;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: black;
+  width: 70%;
+ 
+
+}
+
+/* Intro Text */
+
+.highlight-blue {
+  color:#fff;
+  background-color:#1e6add;
+  padding:50px 0;
+  font-size: 20px;
+  width: 100%;
+  margin: auto;
+}
+
+.intro .title  {
+	margin: auto;
+	width: 80%;
+	font-size:  50px;
+	font-family: "Oswald", bold, sans-serif;
+	margin-bottom: 20px;
+
+}
+
+.intro .email {
+	color: yellow;
+	font-size: 20px;
+}
+
+p .content {
+	font-size: 50px;
+	font-family: 'Libre Baskerville', serif; 
+}
+
+/* Weather */
+
+
+
+/*Icons*/
+
+.icons{
+	display: inline;
+	
+	text-align: center;
+	width: 100%;
+	padding: auto;
+}
+
+.icons .card-body {
+	padding-bottom: 50px;
+}
+
+
+/* Memeber*/
+.login-light .btn1 {
+	margin-bottom: 10px;
+	width: 60%;
+	margin-top: 60px;
+}
+
+.login-light .btn2 {
+	margin-bottom: 10px;
+	width: 60%;
+
+}
+
+.icons .touraments {
+	
+}
+
+/* Contact */
+.contact-clean {
+  background:white;
+  padding:80px 0;
+}
+
+.contact-clean form {
+  max-width:480px;
+  width:90%;
+  margin:0 auto;
+  background-color:#1e6add;
+  padding:40px;
+  border-radius:4px;
+  color:white;
+  box-shadow:1px 1px 5px rgba(0,0,0,0.1);
+}
+
+.contact-clean h2 {
+  margin-top:5px;
+  font-weight:bold;
+  font-size:28px;
+  margin-bottom:36px;
+  color:inherit;
+}
+
+
+
+
+/*
+.login-light form {
+  max-width:100%;
+  min-width: 20px;
+  width:90%;
+  background-color:#1e2833;
+  padding:40px;
+  border-radius:4px;
+  transform:translate(-50%, -50%);
+  position:absolute;
+  top:50%;
+  left:50%;
+  color:#fff;
+  box-shadow:3px 3px 4px rgba(0,0,0,0.2);
+}*/
+
+
+
